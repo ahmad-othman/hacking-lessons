@@ -1,6 +1,6 @@
 # Mustafa & Daddy hacking lessons ...
 
-Hi buddy, this is Daddy writing to you. This web site will be the place to share with you all what I know about hacking so you can one day stop the hackers. 
+Hello Big Boy King, this is Daddy writing to you. This web site will be the place to share with you all what I know about hacking so you can one day stop the hackers. 
 
 ## Let's start ...
 
