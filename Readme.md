@@ -12,4 +12,6 @@ First say Hi to Gopher, he is our friend who will be with us in learning GOLANG.
 
 Wait a minute, what is GOLANG? GOLANG is short for GO Programming Language. It is how people write instructions for the computer to run, people such as hackers and us who want to stop them. 
 
-Please go to [lesson one](lesson-one.md "LESSON ONE") to start learning. 
+[lesson one](lesson-one.md)
+
+## First: setting up the environment 
