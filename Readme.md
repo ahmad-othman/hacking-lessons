@@ -12,6 +12,16 @@ First say Hi to Gopher, he is our friend who will be with us in learning GOLANG.
 
 Wait a minute, what is GOLANG? GOLANG is short for GO Programming Language. It is how people write instructions for the computer to run, people such as hackers and us who want to stop them. 
 
-[lesson one](lesson-one.md)
 
-## First: setting up the environment 
+
+## First: install the tools we need
+
+The tools we need are: 
+1. **GOLANG compiler** (psst: compiler is kind of program that translates the commands we write into computer language)
+2. **Text Editor**, this is a program that you use to write the program you want to run, such as the infinte loop 
+
+### Installing GOLANG
+
+First we click on **Activities** then we select the square with four dots like below 
+
+
