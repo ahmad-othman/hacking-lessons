@@ -39,7 +39,11 @@ go to the search bar like type __golang__
 
 Hurray, you see, Gopher is there waiting for us 
 
-<img src="images/search.png">
+<img src="images/gopher.png">
+
+Click on him and when he opens his page click on __install__ button like so. 
+
+<img src="images/install.png">
 
 
 
