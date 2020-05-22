@@ -72,3 +72,25 @@ Remember __snap-store__, it is like candy store to us, it has all the goodies we
 click on it and click the __install__ button same as you did with __GOLANG__
 
 <img src="images/vs-code-1.png">
+
+After it finishes, you should find an icon for Visual Studio Code when you open your application like so 
+
+<img src="images/vsc-install.png">
+
+Click on it to open it and you shall see this screen 
+
+<img src="images/vsc-run.png">
+
+
+
+
+```
+package main
+
+import "fmt" 
+
+func main(){
+
+    fmt.Println("Hi BIG BOY KING")
+}
+```
