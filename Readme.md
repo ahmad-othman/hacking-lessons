@@ -29,3 +29,17 @@ Then we open __snap store__ like so
 
 <img src="images/snap-store.png">
 
+Once the snap store open, you should see something like the following
+
+<img src="images/snap-store-1.png">
+
+go to the search bar like type __golang__
+
+<img src="images/search.png">
+
+Hurray, you see, Gopher is there waiting for us 
+
+<img src="images/search.png">
+
+
+
