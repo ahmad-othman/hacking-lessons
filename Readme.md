@@ -75,14 +75,19 @@ click on it and click the __install__ button same as you did with __GOLANG__
 
 After it finishes, you should find an icon for Visual Studio Code when you open your application like so 
 
-<img src="images/vsc-install.png">
+<img src="images/vs-code-i.png">
 
 Click on it to open it and you shall see this screen 
 
 <img src="images/vsc-run.png">
 
 
+## Now for the fun part, Drums rollliiiingggggg 
 
+your first code you will write is the following.
+
+1. in Visual Studio Code , go to File --> new file (or simply press Ctrl+N) and create a file called main.go
+2. copy and past the code below in the file (don't foget to save the file after you paste)
 
 ```
 package main
@@ -94,3 +99,17 @@ func main(){
     fmt.Println("Hi BIG BOY KING")
 }
 ```
+
+3. Then go to visual studio code menu called __terminal__ (or simply press Ctrl+Shift+`) and type 
+
+```
+go run main.go
+```
+
+Voila you are done. you should see on the terminal the sentence "Hi BIG BOY KING"
+
+Try change it to any thing, for example ```Hi Joseph Stalin``` and it shall change. see it is so much fun, you can print any name in the world. 
+
+Next Lesson we will see how to make the infinte loop. 
+
+Happy Hacking
