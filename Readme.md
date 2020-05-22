@@ -45,5 +45,21 @@ Click on him and when he opens his page click on __install__ button like so.
 
 <img src="images/install.png">
 
+When the installation finishs, you will see a screen like the below. Click on the __back__ button , be carefull not to click on remove btton otherwise Gopher will go away :) 
+
+<img src="images/back.png">
+
+now we are done with installing __GOLANG__, to verify that the installation was ok open your terminal and type 
+```
+go help
+
+```
+
+you should see somehting like that 
+
+
+<img src="images/go-verify.png">
+
+
 
 
