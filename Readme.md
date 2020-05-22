@@ -23,5 +23,9 @@ The tools we need are:
 ### Installing GOLANG
 
 First we click on **Activities** then we select the square with four dots like below 
+<img src="images/activities.png">
 
+Then we open __snap store__ like so 
+
+<img src="images/snap-store.png">
 
