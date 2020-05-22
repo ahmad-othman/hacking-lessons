@@ -18,7 +18,7 @@ Wait a minute, what is GOLANG? GOLANG is short for GO Programming Language. It i
 
 The tools we need are: 
 1. **GOLANG compiler** (psst: compiler is kind of program that translates the commands we write into computer language)
-2. **Text Editor**, this is a program that you use to write the program you want to run, such as the infinte loop 
+2. **Code Editor**, this is a program that you use to write the program you want to run, such as the infinte loop 
 
 ### Installing GOLANG
 
@@ -61,5 +61,14 @@ you should see somehting like that
 <img src="images/go-verify.png">
 
 
+so far so good, Now for the next step which is installing the text editor 
 
+### Installing Code Editor ( Visual Studio Code )
 
+Remember __snap-store__, it is like candy store to us, it has all the goodies we need. Go back to snap store and search for __Visual Studio Code__ like so
+
+<img src="images/vscode.png">
+
+click on it and click the __install__ button same as you did with __GOLANG__
+
+<img src="images/vs-code-1.png">
