@@ -6,7 +6,8 @@ Hi buddy, this is Daddy writing to you. This web site will be the place to share
 
 First say Hi to Gopher, he is our friend who will be with us in learning GOLANG. 
 
-![alt text] (images/Golang-1200x500.png)
+<img src="images/Golang-1200x500.png">
+
 
 
 Wait a minute, what is GOLANG? GOLANG is short for GO Programming Language. It is how people write instructions for the computer to run, people such as hackers and us who want to stop them. 
